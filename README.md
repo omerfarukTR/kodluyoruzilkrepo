@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-![proje_resmi](kodluyoruzilkrepo\img\proje.png)
+![proje_resmi](https://github.com/omerfarukTR/kodluyoruzilkrepo/blob/master/img/proje.PNG?raw=true)
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
